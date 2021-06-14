@@ -1,4 +1,6 @@
 # Frontend Development
+https://docs.emmet.io/ - fast dev in sublime
+
 
 + Guides
     + [Hack Design](http://hackdesign.org/courses/)
